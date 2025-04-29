@@ -18,7 +18,7 @@ This project applies **RFM (Recency, Frequency, Monetary) Analysis** to segment 
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas, NumPy
