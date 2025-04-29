@@ -1,12 +1,12 @@
-# 📊 Customer Segmentation using RFM Analysis
+# Customer Segmentation using RFM Analysis
 
-## 🔍 Overview
+## Overview
 
 This project applies **RFM (Recency, Frequency, Monetary) Analysis** to segment customers based on their purchase behavior. It's a smart way to identify high-value customers, inactive ones, and plan targeted marketing strategies.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source:** Simulated customer data (1,000 records)
 - **Fields Included:**
@@ -27,7 +27,7 @@ This project applies **RFM (Recency, Frequency, Monetary) Analysis** to segment 
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 
 - **Recency:** How recently a customer purchased
 - **Frequency:** How often they purchase
@@ -35,7 +35,7 @@ This project applies **RFM (Recency, Frequency, Monetary) Analysis** to segment 
 
 ---
 
-## 📌 Steps Performed
+## Steps Performed
 
 1. **Data Loading**
    - Loaded and explored the dataset using Pandas
@@ -62,7 +62,7 @@ This project applies **RFM (Recency, Frequency, Monetary) Analysis** to segment 
 
 ---
 
-## 🧩 Sample Output
+## Sample Output
 
 | Customer ID | Recency | Frequency | Monetary | R_Score | F_Score | M_Score | RFM_Score | Segment     |
 |-------------|---------|-----------|----------|---------|---------|---------|-----------|-------------|
@@ -71,7 +71,7 @@ This project applies **RFM (Recency, Frequency, Monetary) Analysis** to segment 
 
 ---
 
-## 🎯 Why This Project Matters
+## Why This Project Matters
 
 - Real-world business application
 - Teaches scoring and segmentation logic
@@ -80,7 +80,7 @@ This project applies **RFM (Recency, Frequency, Monetary) Analysis** to segment 
 
 ---
 
-## 🔄 Future Enhancements
+## Future Enhancements
 
 - Create an interactive dashboard in Power BI
 - Use real-world transactional data
@@ -88,4 +88,4 @@ This project applies **RFM (Recency, Frequency, Monetary) Analysis** to segment 
 
 ---
 
-> **Made as part of a hands-on learning journey to become a smart and skilled Data Analyst.**
+
